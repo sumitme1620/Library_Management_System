@@ -15,7 +15,7 @@ def main():
         print()
 
         try:
-            choice=int(input("Please Enter your input: "))
+            choice=int(input())
             if (choice==1):
                 #insert user
                 uid = int(input("Enter user id: "))
